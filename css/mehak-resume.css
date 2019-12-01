@@ -90,7 +90,6 @@ h1 {
   text-align: left;
 }
 
-/* Add a grey background color to dropdown links on hover */
 .dropdown-content a:hover {
   background-color: #ddd;
 }
@@ -99,36 +98,28 @@ h1 {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
 h2 {
   margin-top: 20px;
- margin-left: 130px;
-
-
+  margin-left: 130px;
   color: blueviolet;
   font-size: 40px;
   font-family: Arial, serif;
 }
-
 h5 {
   margin-top: 5px;
   margin-left: 130px;
-
-
   color: blueviolet;
   font-size: 30px;
   font-family: Arial, serif;
-
-
 }
 
 .info {
 
-  margin-left: 150px;
+  margin-left: 320px;
 
-
+  align-content: center;
   word-spacing: 10px;
-  color: black;
+  color: #dddddd;
   padding-bottom: 30px;
 
 }
@@ -137,15 +128,16 @@ h5 {
 
 
 .interests{
-  margin-left: 125px;
-  color: black;
+  margin-left: 300px;
+  color: white;
   padding-bottom: 30px;
 
 
 }
 .head {
-  margin-left: 70px;
-  color: black;
+  margin-left: 150px;
+  color: #dddddd;
+  align-content: center;
   padding-bottom: 30px;
   font-size: 20px;
 }
@@ -153,30 +145,28 @@ h5 {
 hr {
   margin-left: 0px;
   margin-right: 0px;
+  color: cornflowerblue;
 }
 
 h2 {
   margin-top: 50px;
-  margin-left: 230px;
-  color: black;
+  margin-left: 400px;
+  color: #dddddd;
 
 }
 
 h3{
   font-size: 27px;
   margin-top: 50px;
-  margin-left: 230px;
-  color: black;
+  margin-left: 380px;
+  color: #dddddd;
 
 }
-
 .resume-box {
   margin-top: 60px;
   margin-left:300px;
   margin-right: 300px;
-  background-color: white;
-  border: 2px white solid;
-
+  border: 5px cornflowerblue solid;
 }
 
 
@@ -188,4 +178,3 @@ h3{
 
 
 }
-
