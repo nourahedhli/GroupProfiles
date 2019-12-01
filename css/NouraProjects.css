@@ -152,15 +152,18 @@ h1 {
 
 h2 {
   text-align:center;
-  color: blueviolet;
+  color: white;
   font-size: 48px;
   font-family: Arial, serif;
 }
-
+.container-project {
+  margin-left: 40px;
+}
 .footer {
   text-align: center;
   color: white;
-  margin-bottom: 60px;
+  margin-top: 800px;
+
 
 
 }
