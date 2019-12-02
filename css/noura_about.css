@@ -107,7 +107,7 @@ h2 {
 .box-11 {
   text-align:left;
 
-  background-color: #cccccc;
+  background-color: white;
   padding: 20px 20px 200px;
   margin-top: 204px;
 
@@ -128,7 +128,12 @@ h2 {
   right: 50px;
 
 
+}
 
+.footer {
+  text-align: center;
+  color: white;
+  margin-bottom: 60px;
 
 
 }
