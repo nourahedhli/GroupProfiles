@@ -115,8 +115,8 @@ h5 {
 
 .info {
 
-  margin-left: 320px;
-
+  margin-right: 200px;
+  margin-left: 200px;
   align-content: center;
   word-spacing: 10px;
   color: #dddddd;
@@ -128,14 +128,17 @@ h5 {
 
 
 .interests{
-  margin-left: 300px;
+  margin-right: 200px;
+  margin-left: 200px;
   color: white;
   padding-bottom: 30px;
 
 
 }
 .head {
-  margin-left: 150px;
+  margin-right: 100px;
+  text-underline-mode: 2px;
+  margin-left: 200px;
   color: #dddddd;
   align-content: center;
   padding-bottom: 30px;
