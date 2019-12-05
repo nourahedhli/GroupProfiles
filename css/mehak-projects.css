@@ -103,6 +103,11 @@ h1 {
 }
 
 
+.container {
+  width: 100%;
+
+}
+
 .content{
   align-content: center;
 }
