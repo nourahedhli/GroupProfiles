@@ -119,7 +119,7 @@ h1 {
 #nd-box {
   padding-left: 10px;
   position: absolute;
-  margin-left: 920px;
+  margin-left: 700px;
   width: 400px;
   height:300px;
   background-color:lightblue;
@@ -130,7 +130,7 @@ h1 {
   padding-left: 10px;
   position: absolute;
   margin-top: 400px;
-  margin-left: 920px;
+  margin-left: 700px;
   width: 400px;
   height:300px;
   background-color: lightblue;
@@ -167,7 +167,7 @@ h1 {
   padding-left: 10px;
   position: absolute;
   margin-top: 800px;
-  margin-left: 920px;
+  margin-left: 700px;
   width: 400px;
   height:300px;
   background-color: lightblue;
@@ -186,5 +186,5 @@ h2 {
 #footer{
   color:white;
   text-align: center;
-  alignment-baseline: bottom;
+  margin-top: 1300px;
 }
